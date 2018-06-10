@@ -6,7 +6,7 @@ An introductory machine learning project that I wrote for the 42 curriculum.
 In this project:
 * Students implement a perceptron and ADALINE from scratch
 * Gain experience working with pandas and plotting/visualizing data with matplotlib
-* Reimplement simple cross-validation dataset generator functions
+* Reimplement train-test split and k-fold cross-validation functions
 
 Bonuses for this project include:
 * Implementing perceptron and ADALINE functions in Cython
